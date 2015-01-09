@@ -16,8 +16,10 @@ Table of Contents
 
 Courses
 ---
-
+<details>
+<summary>
 ### Systems
+</summary>
 - [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU*
   - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by professor [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/).
   - [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
@@ -70,10 +72,12 @@ Courses
 - [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
   - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
   - [Lecture slides](http://patricklam.ca/p4p/notes/)
-
+</details>
 -------
-
+<details>
+<summary>
 ### Programming Languages / Compilers
+</summary>
 - [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
   - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
   - [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
@@ -119,10 +123,12 @@ Courses
 - [clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki*
   - The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
   - [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
-
+</details>
 -------
-
+<details>
+<summary>
 ### Algorithms
+</summary>
 - [6.INT](http://courses.csail.mit.edu/iap/interview/index.php) **Hacking a Google Interview** *MIT*
   - This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
   - [Handouts](http://courses.csail.mit.edu/iap/interview/materials.php)
@@ -176,10 +182,12 @@ Courses
   - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
   - [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf)
   - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
-
+</details>
 -------
-
+<details>
+<summary>
 ### CS Theory
+</summary>
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
   * [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
@@ -196,11 +204,12 @@ Courses
   - [Textbook](http://web.engr.illinois.edu/~mfleck/building-blocks/) Written by the professor. Includes Instructor's Guide.
   - [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
   - [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
-
+</details>
 -------
-
+<details>
+<summary>
 ### Introduction to CS
-
+</summary>
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
   - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language. Students learn about history, social implications, great principles, and future of computing. They also learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests.
   - [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
@@ -230,10 +239,12 @@ Courses
   - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
   - [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp), [pdf](https://github.com/sarabander/sicp-pdf))
   - [IDE](http://www.neilvandyke.org/racket-sicp/)
-
+</details>
 -------
-
+<details>
+<summary>
 ### Misc
+</summary>
 - [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas*
   - In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision 
   - [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
@@ -290,8 +301,11 @@ Courses
   - [Assignments](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html)
 - [11-785](http://deeplearning.cs.cmu.edu/) **Deep Learning** *Carnegie Mellon University*
   - The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. *Lectures* and *Reading Notes* are available on the page.
-
+</details>
 -----
-
+<details>
+<summary>
 ### Contributing
+</summary>
 Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
+</details>
